@@ -117,7 +117,7 @@
 
     <section class="box">
       <h2>Current App</h2>
-      <p>Counter#</p>
+      <p>Counter#, Compatibilidade de Signos</p>
     </section>
 
     <section class="box">
